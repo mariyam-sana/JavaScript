@@ -107,3 +107,46 @@
 // } else {
 // }
 
+//Q9
+// let input = prompt("Enter a number:");
+// let number = parseInt(input);
+
+// if (number % 2 === 0) {
+//     alert(number + " is an even number.");
+// }else {
+//     alert(number + " is an odd number.");
+// }
+
+//Q10
+// var T = parseInt(prompt("Temperature"))
+
+// if (T > 40){
+//     alert("It is to hot outside")
+// }else if (T > 30){
+//     alert("The weather today is normal")
+// }else if (T > 20){
+//     alert("Today's weather is cool")
+// }else if (T > 10){
+//     alert("OMG! Today weather is so cool")
+// }
+
+//Q11
+// let firstNumber = prompt("Enter the first number:")
+// let secondNumber = prompt("Enter the second number:")
+// let operation = prompt("Enter the operation (+, -, *, /, %):")
+
+// var result
+
+// if (operation == "+"){
+//     result = firstNumber + secondNumber
+// }else if (operation == "-"){
+//     result = firstNumber - secondNumber
+// }else if (operation == "*"){
+//     result = firstNumber * secondNumber
+// }else if (operation == "/"){
+//     result = firstNumber / secondNumber
+// }else if (operation == "%"){
+//     result = firstNumber % secondNumber
+// }
+// alert("result")
+
